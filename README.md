@@ -8,7 +8,7 @@ Sou um Desenvolvedor Web focado em criar soluções digitais que funcionam. Atua
 **[Auge Beauty](https://www.augebeauty.com.br)**
 *E-commerce de dermocosméticos com alta customização.*
 * **Atuação:** Desenvolvimento de funcionalidades via Shopify API e edição avançada de temas (Liquid).
-* **Tech:** Shopify, Liquid, JavaScript, Integrações via API.
+* **Tech:** , Liquid, JavaScript, Integrações via API.
 * **Status:** 🟢 Online e operando.
 
 ---
